@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">ElectronicSigning</string>
+    <string name="title_home">在线委托签约</string>
+    <string name="title_dashboard">委托协议示例</string>
+    <string name="title_notifications">下载委托书</string>
+    <string name="disclaimer_that">免责说明</string>
+    <string name="disclaimer_that_content">在线委托签约服务仅提供委托人身份验证和电子委托书生成服务，
+        委托双方具体委托事项与本服务无关。为了快速准确完成签约，请务必保证录入信息的准确性。</string>
+    <string name="instructions">使用说明</string>
+    <string name="instructions_content">
+        1.请使用浏览器打开链接;\n
+        2.请保证填写信息准确;\n
+        3.不支持长按支付功能，建议使用另一部手机进行扫码支付操作或直接使用电脑打开本链接;\n
+        4.支付时不要关闭当前界面;\n
+        5.签约完成后可点击下载按钮下载委托书;\n
+    </string>
+    <string name="sign">认证签署</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="errorName">您的姓名不能为空</string>
+    <string name="errorCarNum">您的身份证号码不能为空</string>
+    <string name="errorIdNo">您的银行卡号不能为空</string>
+    <string name="errorIphone">您的手机号码不能为空</string>
+    <string name="errorAuthCode">请输入验证码</string>
+    <string name="errorOnLineSign">请输入待收本金</string>
+</resources>
